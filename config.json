@@ -1,0 +1,20 @@
+{
+  "check_delay" : 172800,
+  "gmail_email_username" : "",
+  "gmail_email_password" : "",
+  "email_to_notify" : "",
+  "items": [
+    {
+      "Item_name": {
+        "url": "Amazon url for item",
+        "price": [xxx, xxx]
+      }
+    },
+    {
+      "Item_name2": {
+        "url": "Amazon url for item",
+        "price": [xxx, xxx]
+      }
+    }
+  ]
+}
