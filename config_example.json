@@ -1,0 +1,20 @@
+{
+  "check_delay" : 172800,
+  "gmail_email_username" : "",
+  "gmail_email_password" : "",
+  "email_to_notify" : "",
+  "items": [
+    {
+      "MSI-RTX-2070-SUPER": {
+        "url": "https://www.amazon.co.uk/MSI-RTX-2070-SUPER-VENTUS/dp/B07TTSVC7K",
+        "price": [450, 400]
+      }
+    },
+    {
+      "CORSAIR-K95-PLATINUM": {
+        "url": "https://www.amazon.com/CORSAIR-PLATINUM-Mechanical-Gaming-Keyboard/dp/B01MU3R9VM",
+        "price": [175, 150]
+      }
+    }
+  ]
+}
